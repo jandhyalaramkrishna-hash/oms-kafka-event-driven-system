@@ -1,0 +1,118 @@
+{
+  "info": {
+    "_postman_id": "3d7b6702-5c1a-480b-af9e-c9ecd0b70e8d",
+    "name": "OMS - Event Driven API Testing (Kafka)",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "52559030",
+    "_collection_link": "https://go.postman.co/collection/52559030-3d7b6702-5c1a-480b-af9e-c9ecd0b70e8d?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "Create Order (ORDER_PLACED)",
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "exec": [
+              "let status = pm.response.code;\r",
+              "\r",
+              "// PASS for success\r",
+              "if (status === 200) {\r",
+              "    pm.test(\"Success Order - 200 OK\", function () {\r",
+              "        pm.response.to.have.status(200);\r",
+              "    });\r",
+              "}\r",
+              "\r",
+              "// PASS for duplicate\r",
+              "else if (status === 409) {\r",
+              "    pm.test(\"Duplicate Order handled - 409\", function () {\r",
+              "        pm.response.to.have.status(409);\r",
+              "    });\r",
+              "}\r",
+              "\r",
+              "// PASS for DLQ / invalid\r",
+              "else if (status === 422) {\r",
+              "    pm.test(\"Invalid Order sent to DLQ - 422\", function () {\r",
+              "        pm.response.to.have.status(422);\r",
+              "    });\r",
+              "}\r",
+              "\r",
+              "// FAIL anything unexpected\r",
+              "else {\r",
+              "    pm.test(\"Unexpected Status Code\", function () {\r",
+              "        throw new Error(\"Unexpected status: \" + status);\r",
+              "    });\r",
+              "}"
+            ],
+            "type": "text/javascript",
+            "packages": {},
+            "requests": {}
+          }
+        }
+      ],
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json",
+            "type": "text"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n  \"metadata\": {},\r\n  \"payload\": {\r\n    \"order_id\": \"{{order_id}}\",\r\n    \"customer\": {\r\n      \"customer_id\": \"{{customer_id}}\",\r\n      \"full_name\": \"{{full_name}}\",\r\n      \"email\": \"{{email}}\",\r\n      \"phone\": \"{{phone}}\"\r\n    },\r\n    \"items\": [\r\n      {\r\n        \"sku\": \"{{sku}}\",\r\n        \"name\": \"{{product_name}}\",\r\n        \"quantity\": {{quantity}},\r\n        \"unit_price\": {{unit_price}}\r\n      }\r\n    ]\r\n  }\r\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "{{base_url}}/orders",
+          "host": [
+            "{{base_url}}"
+          ],
+          "path": [
+            "orders"
+          ]
+        }
+      },
+      "response": []
+    }
+  ],
+  "auth": {
+    "type": "bearer",
+    "bearer": [
+      {
+        "key": "token",
+        "value": "{{vault:authorization-secret}}",
+        "type": "string"
+      }
+    ]
+  },
+  "event": [
+    {
+      "listen": "prerequest",
+      "script": {
+        "type": "text/javascript",
+        "packages": {},
+        "requests": {},
+        "exec": [
+          ""
+        ]
+      }
+    },
+    {
+      "listen": "test",
+      "script": {
+        "type": "text/javascript",
+        "packages": {},
+        "requests": {},
+        "exec": [
+          ""
+        ]
+      }
+    }
+  ]
+}

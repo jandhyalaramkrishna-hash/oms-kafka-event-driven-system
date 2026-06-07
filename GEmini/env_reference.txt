@@ -1,0 +1,9 @@
+=====================================================================
+⚙️ SWADESI ENTERPRISES OMS ENVIRONMENT CREDENTIAL TEMPLATE
+=====================================================================
+Save a copy of this structure as a file named ".env" in your execution root.
+
+EMAIL_USER=jandhyala.ramkrishna@gmail.com
+EMAIL_PASS=cttcvnsyvxwhonsn
+SMTP_SERVER=smtp.gmail.com
+SMTP_PORT=587

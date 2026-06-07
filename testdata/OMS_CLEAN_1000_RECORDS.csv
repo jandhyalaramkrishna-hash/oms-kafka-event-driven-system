@@ -1,0 +1,1029 @@
+order_id,customer_id,full_name,email,phone,product_name,quantity,unit_price
+ORD000011,CUST000011,User01,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,1,50000
+ORD000012,CUST000012,User02,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,2,50000
+ORD000013,CUST000013,User03,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,3,50000
+ORD000014,CUST000014,User04,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,4,50000
+ORD000015,CUST000015,User05,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,5,50000
+ORD000016,CUST000016,User06,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,6,50000
+ORD000017,CUST000017,User07,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,7,50000
+ORD000018,CUST000018,User08,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,8,50000
+ORD000019,CUST000019,User09,jandhyala.ramkrishna@gmail.com,9.20E+11,invalid product,9,50000
+ORD000020,CUST000020,User10,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,10,50000
+ORD000021,CUST000021,User11,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,11,50000
+ORD000022,CUST000022,User12,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,12,50000
+ORD000023,CUST000023,User13,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,13,50000
+ORD000024,CUST000024,User14,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,14,50000
+ORD000025,CUST000025,User15,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,15,50000
+ORD000026,CUST000026,User16,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,16,50000
+ORD000027,CUST000027,User17,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,17,50000
+ORD000028,CUST000028,User18,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,18,50000
+ORD000029,CUST000029,User19,jandhyala.ramkrishna@gmail.com,9.20E+11,danger product,19,50000
+ORD000030,CUST000030,User20,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,20,50000
+ORD000031,CUST000031,User21,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,21,50000
+ORD000032,CUST000032,User22,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,22,50000
+ORD000033,CUST000033,User23,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,23,50000
+ORD000034,CUST000034,User24,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,24,50000
+ORD000035,CUST000035,User25,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,25,50000
+ORD000036,CUST000036,User26,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,26,50000
+ORD000037,CUST000037,User27,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,27,50000
+ORD000038,CUST000038,User28,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,28,50000
+ORD000039,CUST000039,User29,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,29,50000
+ORD000040,CUST000040,User30,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,30,50000
+ORD000041,CUST000041,User31,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,31,50000
+ORD000042,CUST000042,User32,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,32,50000
+ORD000043,CUST000043,User33,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,33,50000
+ORD000044,CUST000044,User34,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,34,50000
+ORD000045,CUST000045,User35,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,35,50000
+ORD000046,CUST000046,User36,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,36,50000
+ORD000047,CUST000047,User37,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,37,50000
+ORD000048,CUST000048,User38,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,38,50000
+ORD000049,CUST000049,User39,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,39,50000
+ORD000050,CUST000050,User40,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,40,50000
+ORD000051,CUST000051,User41,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,41,50000
+ORD000052,CUST000052,User42,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,42,50000
+ORD000053,CUST000053,User43,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,43,50000
+ORD000054,CUST000054,User44,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,44,50000
+ORD000055,CUST000055,User45,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,45,50000
+ORD000056,CUST000056,User46,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,46,50000
+ORD000057,CUST000057,User47,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,47,50000
+ORD000058,CUST000058,User48,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,48,50000
+ORD000059,CUST000059,User49,jandhyala.ramkrishna@gmail.com,9.20E+11,stopped product,49,50000
+ORD000060,CUST000060,User50,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,50,50000
+ORD000061,CUST000061,User51,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,51,50000
+ORD000062,CUST000062,User52,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,52,50000
+ORD000063,CUST000063,User53,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,53,50000
+ORD000064,CUST000064,User54,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,54,50000
+ORD000065,CUST000065,User55,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,55,50000
+ORD000066,CUST000066,User56,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,56,50000
+ORD000067,CUST000067,User57,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,57,50000
+ORD000068,CUST000068,User58,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,58,50000
+ORD000069,CUST000069,User59,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,59,50000
+ORD000070,CUST000070,User60,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,60,50000
+ORD000071,CUST000071,User61,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,61,50000
+ORD000072,CUST000072,User62,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,62,50000
+ORD000073,CUST000073,User63,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,63,50000
+ORD000074,CUST000074,User64,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,64,50000
+ORD000075,CUST000075,User65,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,65,50000
+ORD000076,CUST000076,User66,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,66,50000
+ORD000077,CUST000077,User67,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,67,50000
+ORD000078,CUST000078,User68,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,68,50000
+ORD000079,CUST000079,User69,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,69,50000
+ORD000080,CUST000080,User70,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,70,50000
+ORD000081,CUST000081,User71,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,71,50000
+ORD000082,CUST000082,User72,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,72,50000
+ORD000083,CUST000083,User73,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,73,50000
+ORD000084,CUST000084,User74,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,74,50000
+ORD000085,CUST000085,User75,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,75,50000
+ORD000086,CUST000086,User76,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,76,50000
+ORD000087,CUST000087,User77,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,77,50000
+ORD000088,CUST000088,User78,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,78,50000
+ORD000089,CUST000089,User79,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,79,50000
+ORD000090,CUST000090,User80,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,80,50000
+ORD000091,CUST000091,User81,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,81,50000
+ORD000092,CUST000092,User82,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,82,50000
+ORD000093,CUST000093,User83,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,83,50000
+ORD000094,CUST000094,User84,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,84,50000
+ORD000095,CUST000095,User85,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,85,50000
+ORD000096,CUST000096,User86,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,86,50000
+ORD000097,CUST000097,User87,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,87,50000
+ORD000098,CUST000098,User88,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,88,50000
+ORD000099,CUST000099,User89,jandhyala.ramkrishna@gmail.com,9.20E+11,danger product,89,50000
+ORD000100,CUST000100,User90,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,90,50000
+ORD000101,CUST000101,User91,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,91,50000
+ORD000102,CUST000102,User92,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,92,50000
+ORD000103,CUST000103,User93,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,93,50000
+ORD000104,CUST000104,User94,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,94,50000
+ORD000105,CUST000105,User95,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,95,50000
+ORD000106,CUST000106,User96,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,96,50000
+ORD000107,CUST000107,User97,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,97,50000
+ORD000108,CUST000108,User98,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,98,50000
+ORD000109,CUST000109,User99,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,99,50000
+ORD000110,CUST000110,User100,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,100,50000
+ORD000111,CUST000111,User101,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,101,50000
+ORD000112,CUST000112,User102,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,102,50000
+ORD000113,CUST000113,User103,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,103,50000
+ORD000114,CUST000114,User104,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,104,50000
+ORD000115,CUST000115,User105,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,105,50000
+ORD000116,CUST000116,User106,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,106,50000
+ORD000117,CUST000117,User107,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,107,50000
+ORD000118,CUST000118,User108,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,108,50000
+ORD000119,CUST000119,User109,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,109,50000
+ORD000120,CUST000120,User110,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,110,50000
+ORD000121,CUST000121,User111,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,111,50000
+ORD000122,CUST000122,User112,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,112,50000
+ORD000123,CUST000123,User113,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,113,50000
+ORD000124,CUST000124,User114,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,114,50000
+ORD000125,CUST000125,User115,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,115,50000
+ORD000126,CUST000126,User116,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,116,50000
+ORD000127,CUST000127,User117,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,117,50000
+ORD000128,CUST000128,User118,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,118,50000
+ORD000129,CUST000129,User119,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,119,50000
+ORD000130,CUST000130,User120,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,120,50000
+ORD000131,CUST000131,User121,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,121,50000
+ORD000132,CUST000132,User122,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,122,50000
+ORD000133,CUST000133,User123,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,123,50000
+ORD000134,CUST000134,User124,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,124,50000
+ORD000135,CUST000135,User125,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,125,50000
+ORD000136,CUST000136,User126,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,126,50000
+ORD000137,CUST000137,User127,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,127,50000
+ORD000138,CUST000138,User128,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,128,50000
+ORD000139,CUST000139,User129,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,129,50000
+ORD000140,CUST000140,User130,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,130,50000
+ORD000141,CUST000141,User131,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,131,50000
+ORD000142,CUST000142,User132,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,132,50000
+ORD000143,CUST000143,User133,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,133,50000
+ORD000144,CUST000144,User134,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,134,50000
+ORD000145,CUST000145,User135,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,135,50000
+ORD000146,CUST000146,User136,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,136,50000
+ORD000147,CUST000147,User137,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,137,50000
+ORD000148,CUST000148,User138,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,138,50000
+ORD000149,CUST000149,User139,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,139,50000
+ORD000150,CUST000150,User140,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,140,50000
+ORD000151,CUST000151,User141,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,141,50000
+ORD000152,CUST000152,User142,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,142,50000
+ORD000153,CUST000153,User143,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,143,50000
+ORD000154,CUST000154,User144,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,144,50000
+ORD000155,CUST000155,User145,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,145,50000
+ORD000156,CUST000156,User146,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,146,50000
+ORD000157,CUST000157,User147,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,147,50000
+ORD000158,CUST000158,User148,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,148,50000
+ORD000159,CUST000159,User149,jandhyala.ramkrishna@gmail.com,9.20E+11,danger product,149,50000
+ORD000160,CUST000160,User150,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,150,50000
+ORD000161,CUST000161,User151,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,151,50000
+ORD000162,CUST000162,User152,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,152,50000
+ORD000163,CUST000163,User153,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,153,50000
+ORD000164,CUST000164,User154,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,154,50000
+ORD000165,CUST000165,User155,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,155,50000
+ORD000166,CUST000166,User156,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,156,50000
+ORD000167,CUST000167,User157,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,157,50000
+ORD000168,CUST000168,User158,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,158,50000
+ORD000169,CUST000169,User159,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,159,50000
+ORD000170,CUST000170,User160,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,160,50000
+ORD000171,CUST000171,User161,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,161,50000
+ORD000172,CUST000172,User162,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,162,50000
+ORD000173,CUST000173,User163,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,163,50000
+ORD000174,CUST000174,User164,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,164,50000
+ORD000175,CUST000175,User165,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,165,50000
+ORD000176,CUST000176,User166,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,166,50000
+ORD000177,CUST000177,User167,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,167,50000
+ORD000178,CUST000178,User168,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,168,50000
+ORD000179,CUST000179,User169,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,169,50000
+ORD000180,CUST000180,User170,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,170,50000
+ORD000181,CUST000181,User171,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,171,50000
+ORD000182,CUST000182,User172,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,172,50000
+ORD000183,CUST000183,User173,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,173,50000
+ORD000184,CUST000184,User174,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,174,50000
+ORD000185,CUST000185,User175,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,175,50000
+ORD000186,CUST000186,User176,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,176,50000
+ORD000187,CUST000187,User177,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,177,50000
+ORD000188,CUST000188,User178,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,178,50000
+ORD000189,CUST000189,User179,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,179,50000
+ORD000190,CUST000190,User180,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,180,50000
+ORD000191,CUST000191,User181,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,181,50000
+ORD000192,CUST000192,User182,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,182,50000
+ORD000193,CUST000193,User183,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,183,50000
+ORD000194,CUST000194,User184,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,184,50000
+ORD000195,CUST000195,User185,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,185,50000
+ORD000196,CUST000196,User186,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,186,50000
+ORD000197,CUST000197,User187,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,187,50000
+ORD000198,CUST000198,User188,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,188,50000
+ORD000199,CUST000199,User189,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,189,50000
+ORD000200,CUST000200,User190,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,190,50000
+ORD000201,CUST000201,User191,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,191,50000
+ORD000202,CUST000202,User192,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,192,50000
+ORD000203,CUST000203,User193,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,193,50000
+ORD000204,CUST000204,User194,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,194,50000
+ORD000205,CUST000205,User195,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,195,50000
+ORD000206,CUST000206,User196,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,196,50000
+ORD000207,CUST000207,User197,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,197,50000
+ORD000208,CUST000208,User198,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,198,50000
+ORD000209,CUST000209,User199,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,199,50000
+ORD000210,CUST000210,User200,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,200,50000
+ORD000211,CUST000211,User201,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,201,50000
+ORD000212,CUST000212,User202,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,202,50000
+ORD000213,CUST000213,User203,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,203,50000
+ORD000214,CUST000214,User204,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,204,50000
+ORD000215,CUST000215,User205,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,205,50000
+ORD000216,CUST000216,User206,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,206,50000
+ORD000217,CUST000217,User207,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,207,50000
+ORD000218,CUST000218,User208,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,208,50000
+ORD000219,CUST000219,User209,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,209,50000
+ORD000220,CUST000220,User210,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,210,50000
+ORD000221,CUST000221,User211,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,211,50000
+ORD000222,CUST000222,User212,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,212,50000
+ORD000223,CUST000223,User213,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,213,50000
+ORD000224,CUST000224,User214,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,214,50000
+ORD000225,CUST000225,User215,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,215,50000
+ORD000226,CUST000226,User216,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,216,50000
+ORD000227,CUST000227,User217,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,217,50000
+ORD000228,CUST000228,User218,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,218,50000
+ORD000229,CUST000229,User219,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,219,50000
+ORD000230,CUST000230,User220,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,220,50000
+ORD000231,CUST000231,User221,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,221,50000
+ORD000232,CUST000232,User222,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,222,50000
+ORD000233,CUST000233,User223,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,223,50000
+ORD000234,CUST000234,User224,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,224,50000
+ORD000235,CUST000235,User225,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,225,50000
+ORD000236,CUST000236,User226,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,226,50000
+ORD000237,CUST000237,User227,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,227,50000
+ORD000238,CUST000238,User228,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,228,50000
+ORD000239,CUST000239,User229,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,229,50000
+ORD000240,CUST000240,User230,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,230,50000
+ORD000241,CUST000241,User231,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,231,50000
+ORD000242,CUST000242,User232,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,232,50000
+ORD000243,CUST000243,User233,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,233,50000
+ORD000244,CUST000244,User234,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,234,50000
+ORD000245,CUST000245,User235,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,235,50000
+ORD000246,CUST000246,User236,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,236,50000
+ORD000247,CUST000247,User237,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,237,50000
+ORD000248,CUST000248,User238,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,238,50000
+ORD000249,CUST000249,User239,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,239,50000
+ORD000250,CUST000250,User240,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,240,50000
+ORD000251,CUST000251,User241,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,241,50000
+ORD000252,CUST000252,User242,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,242,50000
+ORD000253,CUST000253,User243,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,243,50000
+ORD000254,CUST000254,User244,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,244,50000
+ORD000255,CUST000255,User245,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,245,50000
+ORD000256,CUST000256,User246,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,246,50000
+ORD000257,CUST000257,User247,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,247,50000
+ORD000258,CUST000258,User248,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,248,50000
+ORD000259,CUST000259,User249,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,249,50000
+ORD000260,CUST000260,User250,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,250,50000
+ORD000261,CUST000261,User251,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,251,50000
+ORD000262,CUST000262,User252,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,252,50000
+ORD000263,CUST000263,User253,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,253,50000
+ORD000264,CUST000264,User254,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,254,50000
+ORD000265,CUST000265,User255,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,255,50000
+ORD000266,CUST000266,User256,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,256,50000
+ORD000267,CUST000267,User257,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,257,50000
+ORD000268,CUST000268,User258,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,258,50000
+ORD000269,CUST000269,User259,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,259,50000
+ORD000270,CUST000270,User260,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,260,50000
+ORD000271,CUST000271,User261,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,261,50000
+ORD000272,CUST000272,User262,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,262,50000
+ORD000273,CUST000273,User263,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,263,50000
+ORD000274,CUST000274,User264,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,264,50000
+ORD000275,CUST000275,User265,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,265,50000
+ORD000276,CUST000276,User266,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,266,50000
+ORD000277,CUST000277,User267,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,267,50000
+ORD000278,CUST000278,User268,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,268,50000
+ORD000279,CUST000279,User269,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,269,50000
+ORD000280,CUST000280,User270,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,270,50000
+ORD000281,CUST000281,User271,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,271,50000
+ORD000282,CUST000282,User272,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,272,50000
+ORD000283,CUST000283,User273,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,273,50000
+ORD000284,CUST000284,User274,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,274,50000
+ORD000285,CUST000285,User275,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,275,50000
+ORD000286,CUST000286,User276,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,276,50000
+ORD000287,CUST000287,User277,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,277,50000
+ORD000288,CUST000288,User278,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,278,50000
+ORD000289,CUST000289,User279,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,279,50000
+ORD000290,CUST000290,User280,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,280,50000
+ORD000291,CUST000291,User281,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,281,50000
+ORD000292,CUST000292,User282,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,282,50000
+ORD000293,CUST000293,User283,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,283,50000
+ORD000294,CUST000294,User284,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,284,50000
+ORD000295,CUST000295,User285,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,285,50000
+ORD000296,CUST000296,User286,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,286,50000
+ORD000297,CUST000297,User287,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,287,50000
+ORD000298,CUST000298,User288,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,288,50000
+ORD000299,CUST000299,User289,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,289,50000
+ORD000300,CUST000300,User290,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,290,50000
+ORD000301,CUST000301,User291,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,291,50000
+ORD000302,CUST000302,User292,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,292,50000
+ORD000303,CUST000303,User293,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,293,50000
+ORD000304,CUST000304,User294,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,294,50000
+ORD000305,CUST000305,User295,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,295,50000
+ORD000306,CUST000306,User296,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,296,50000
+ORD000307,CUST000307,User297,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,297,50000
+ORD000308,CUST000308,User298,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,298,50000
+ORD000309,CUST000309,User299,jandhyala.ramkrishna@gmail.com,9.20E+11,useless item,299,50000
+ORD000310,CUST000310,User300,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,300,50000
+ORD000311,CUST000311,User301,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,301,50000
+ORD000312,CUST000312,User302,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,302,50000
+ORD000313,CUST000313,User303,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,303,50000
+ORD000314,CUST000314,User304,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,304,50000
+ORD000315,CUST000315,User305,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,305,50000
+ORD000316,CUST000316,User306,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,306,50000
+ORD000317,CUST000317,User307,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,307,50000
+ORD000318,CUST000318,User308,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,308,50000
+ORD000319,CUST000319,User309,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,309,50000
+ORD000320,CUST000320,User310,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,310,50000
+ORD000321,CUST000321,User311,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,311,50000
+ORD000322,CUST000322,User312,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,312,50000
+ORD000323,CUST000323,User313,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,313,50000
+ORD000324,CUST000324,User314,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,314,50000
+ORD000325,CUST000325,User315,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,315,50000
+ORD000326,CUST000326,User316,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,316,50000
+ORD000327,CUST000327,User317,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,317,50000
+ORD000328,CUST000328,User318,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,318,50000
+ORD000329,CUST000329,User319,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,319,50000
+ORD000330,CUST000330,User320,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,320,50000
+ORD000331,CUST000331,User321,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,321,50000
+ORD000332,CUST000332,User322,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,322,50000
+ORD000333,CUST000333,User323,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,323,50000
+ORD000334,CUST000334,User324,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,324,50000
+ORD000335,CUST000335,User325,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,325,50000
+ORD000336,CUST000336,User326,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,326,50000
+ORD000337,CUST000337,User327,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,327,50000
+ORD000338,CUST000338,User328,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,328,50000
+ORD000339,CUST000339,User329,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,329,50000
+ORD000340,CUST000340,User330,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,330,50000
+ORD000341,CUST000341,User331,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,331,50000
+ORD000342,CUST000342,User332,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,332,50000
+ORD000343,CUST000343,User333,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,333,50000
+ORD000344,CUST000344,User334,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,334,50000
+ORD000345,CUST000345,User335,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,335,50000
+ORD000346,CUST000346,User336,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,336,50000
+ORD000347,CUST000347,User337,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,337,50000
+ORD000348,CUST000348,User338,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,338,50000
+ORD000349,CUST000349,User339,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,339,50000
+ORD000350,CUST000350,User340,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,340,50000
+ORD000351,CUST000351,User341,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,341,50000
+ORD000352,CUST000352,User342,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,342,50000
+ORD000353,CUST000353,User343,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,343,50000
+ORD000354,CUST000354,User344,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,344,50000
+ORD000355,CUST000355,User345,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,345,50000
+ORD000356,CUST000356,User346,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,346,50000
+ORD000357,CUST000357,User347,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,347,50000
+ORD000358,CUST000358,User348,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,348,50000
+ORD000359,CUST000359,User349,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,349,50000
+ORD000360,CUST000360,User350,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,350,50000
+ORD000361,CUST000361,User351,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,351,50000
+ORD000362,CUST000362,User352,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,352,50000
+ORD000363,CUST000363,User353,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,353,50000
+ORD000364,CUST000364,User354,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,354,50000
+ORD000365,CUST000365,User355,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,355,50000
+ORD000366,CUST000366,User356,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,356,50000
+ORD000367,CUST000367,User357,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,357,50000
+ORD000368,CUST000368,User358,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,358,50000
+ORD000369,CUST000369,User359,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,359,50000
+ORD000370,CUST000370,User360,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,360,50000
+ORD000371,CUST000371,User361,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,361,50000
+ORD000372,CUST000372,User362,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,362,50000
+ORD000373,CUST000373,User363,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,363,50000
+ORD000374,CUST000374,User364,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,364,50000
+ORD000375,CUST000375,User365,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,365,50000
+ORD000376,CUST000376,User366,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,366,50000
+ORD000377,CUST000377,User367,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,367,50000
+ORD000378,CUST000378,User368,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,368,50000
+ORD000379,CUST000379,User369,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,369,50000
+ORD000380,CUST000380,User370,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,370,50000
+ORD000381,CUST000381,User371,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,371,50000
+ORD000382,CUST000382,User372,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,372,50000
+ORD000383,CUST000383,User373,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,373,50000
+ORD000384,CUST000384,User374,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,374,50000
+ORD000385,CUST000385,User375,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,375,50000
+ORD000386,CUST000386,User376,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,376,50000
+ORD000387,CUST000387,User377,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,377,50000
+ORD000388,CUST000388,User378,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,378,50000
+ORD000389,CUST000389,User379,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,379,50000
+ORD000390,CUST000390,User380,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,380,50000
+ORD000391,CUST000391,User381,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,381,50000
+ORD000392,CUST000392,User382,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,382,50000
+ORD000393,CUST000393,User383,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,383,50000
+ORD000394,CUST000394,User384,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,384,50000
+ORD000395,CUST000395,User385,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,385,50000
+ORD000396,CUST000396,User386,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,386,50000
+ORD000397,CUST000397,User387,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,387,50000
+ORD000398,CUST000398,User388,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,388,50000
+ORD000399,CUST000399,User389,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,389,50000
+ORD000400,CUST000400,User390,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,390,50000
+ORD000401,CUST000401,User391,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,391,50000
+ORD000402,CUST000402,User392,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,392,50000
+ORD000403,CUST000403,User393,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,393,50000
+ORD000404,CUST000404,User394,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,394,50000
+ORD000405,CUST000405,User395,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,395,50000
+ORD000406,CUST000406,User396,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,396,50000
+ORD000407,CUST000407,User397,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,397,50000
+ORD000408,CUST000408,User398,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,398,50000
+ORD000409,CUST000409,User399,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,399,50000
+ORD000410,CUST000410,User400,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,400,50000
+ORD000411,CUST000411,User401,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,401,50000
+ORD000412,CUST000412,User402,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,402,50000
+ORD000413,CUST000413,User403,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,403,50000
+ORD000414,CUST000414,User404,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,404,50000
+ORD000415,CUST000415,User405,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,405,50000
+ORD000416,CUST000416,User406,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,406,50000
+ORD000417,CUST000417,User407,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,407,50000
+ORD000418,CUST000418,User408,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,408,50000
+ORD000419,CUST000419,User409,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,409,50000
+ORD000420,CUST000420,User410,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,410,50000
+ORD000421,CUST000421,User411,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,411,50000
+ORD000422,CUST000422,User412,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,412,50000
+ORD000423,CUST000423,User413,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,413,50000
+ORD000424,CUST000424,User414,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,414,50000
+ORD000425,CUST000425,User415,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,415,50000
+ORD000426,CUST000426,User416,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,416,50000
+ORD000427,CUST000427,User417,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,417,50000
+ORD000428,CUST000428,User418,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,418,50000
+ORD000429,CUST000429,User419,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,419,50000
+ORD000430,CUST000430,User420,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,420,50000
+ORD000431,CUST000431,User421,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,421,50000
+ORD000432,CUST000432,User422,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,422,50000
+ORD000433,CUST000433,User423,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,423,50000
+ORD000434,CUST000434,User424,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,424,50000
+ORD000435,CUST000435,User425,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,425,50000
+ORD000436,CUST000436,User426,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,426,50000
+ORD000437,CUST000437,User427,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,427,50000
+ORD000438,CUST000438,User428,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,428,50000
+ORD000439,CUST000439,User429,jandhyala.ramkrishna@gmail.com,9.20E+11,waste item,429,50000
+ORD000440,CUST000440,User430,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,430,50000
+ORD000441,CUST000441,User431,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,431,50000
+ORD000442,CUST000442,User432,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,432,50000
+ORD000443,CUST000443,User433,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,433,50000
+ORD000444,CUST000444,User434,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,434,50000
+ORD000445,CUST000445,User435,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,435,50000
+ORD000446,CUST000446,User436,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,436,50000
+ORD000447,CUST000447,User437,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,437,50000
+ORD000448,CUST000448,User438,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,438,50000
+ORD000449,CUST000449,User439,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,439,50000
+ORD000450,CUST000450,User440,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,440,50000
+ORD000451,CUST000451,User441,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,441,50000
+ORD000452,CUST000452,User442,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,442,50000
+ORD000453,CUST000453,User443,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,443,50000
+ORD000454,CUST000454,User444,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,444,50000
+ORD000455,CUST000455,User445,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,445,50000
+ORD000456,CUST000456,User446,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,446,50000
+ORD000457,CUST000457,User447,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,447,50000
+ORD000458,CUST000458,User448,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,448,50000
+ORD000459,CUST000459,User449,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,449,50000
+ORD000460,CUST000460,User450,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,450,50000
+ORD000461,CUST000461,User451,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,451,50000
+ORD000462,CUST000462,User452,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,452,50000
+ORD000463,CUST000463,User453,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,453,50000
+ORD000464,CUST000464,User454,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,454,50001
+ORD000465,CUST000465,User455,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,455,50002
+ORD000466,CUST000466,User456,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,456,50003
+ORD000467,CUST000467,User457,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,457,50004
+ORD000468,CUST000468,User458,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,458,50005
+ORD000469,CUST000469,User459,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,459,50006
+ORD000470,CUST000470,User460,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,460,50007
+ORD000471,CUST000471,User461,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,461,50008
+ORD000472,CUST000472,User462,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,462,50009
+ORD000473,CUST000473,User463,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,463,50010
+ORD000474,CUST000474,User464,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,464,50011
+ORD000475,CUST000475,User465,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,465,50012
+ORD000476,CUST000476,User466,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,466,50013
+ORD000477,CUST000477,User467,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,467,50014
+ORD000478,CUST000478,User468,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,468,50015
+ORD000479,CUST000479,User469,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,469,50016
+ORD000480,CUST000480,User470,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,470,50017
+ORD000481,CUST000481,User471,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,471,50018
+ORD000482,CUST000482,User472,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,472,50019
+ORD000483,CUST000483,User473,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,473,50020
+ORD000484,CUST000484,User474,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,474,50021
+ORD000485,CUST000485,User475,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,475,50022
+ORD000486,CUST000486,User476,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,476,50023
+ORD000487,CUST000487,User477,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,477,50024
+ORD000488,CUST000488,User478,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,478,50025
+ORD000489,CUST000489,User479,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,479,50026
+ORD000490,CUST000490,User480,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,480,50027
+ORD000491,CUST000491,User481,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,481,50028
+ORD000492,CUST000492,User482,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,482,50029
+ORD000493,CUST000493,User483,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,483,50030
+ORD000494,CUST000494,User484,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,484,50031
+ORD000495,CUST000495,User485,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,485,50032
+ORD000496,CUST000496,User486,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,486,50033
+ORD000497,CUST000497,User487,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,487,50034
+ORD000498,CUST000498,User488,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,488,50035
+ORD000499,CUST000499,User489,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,489,50036
+ORD000500,CUST000500,User490,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,490,50037
+ORD000501,CUST000501,User491,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,491,50038
+ORD000502,CUST000502,User492,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,492,50039
+ORD000503,CUST000503,User493,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,493,50040
+ORD000504,CUST000504,User494,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,494,50041
+ORD000505,CUST000505,User495,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,495,50042
+ORD000506,CUST000506,User496,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,496,50043
+ORD000507,CUST000507,User497,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,497,50044
+ORD000508,CUST000508,User498,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,498,50045
+ORD000509,CUST000509,User499,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,499,50046
+ORD000510,CUST000510,User500,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,500,50047
+ORD000511,CUST000511,User501,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,501,50048
+ORD000512,CUST000512,User502,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,502,50049
+ORD000513,CUST000513,User503,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,503,50050
+ORD000514,CUST000514,User504,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,504,50051
+ORD000515,CUST000515,User505,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,505,50052
+ORD000516,CUST000516,User506,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,506,50053
+ORD000517,CUST000517,User507,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,507,50054
+ORD000518,CUST000518,User508,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,508,50055
+ORD000519,CUST000519,User509,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,509,50056
+ORD000520,CUST000520,User510,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,510,50057
+ORD000521,CUST000521,User511,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,511,50058
+ORD000522,CUST000522,User512,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,512,50059
+ORD000523,CUST000523,User513,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,513,50060
+ORD000524,CUST000524,User514,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,514,50061
+ORD000525,CUST000525,User515,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,515,50062
+ORD000526,CUST000526,User516,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,516,50063
+ORD000527,CUST000527,User517,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,517,50064
+ORD000528,CUST000528,User518,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,518,50065
+ORD000529,CUST000529,User519,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,519,50066
+ORD000530,CUST000530,User520,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,520,50067
+ORD000531,CUST000531,User521,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,521,50068
+ORD000532,CUST000532,User522,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,522,50069
+ORD000533,CUST000533,User523,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,523,50070
+ORD000534,CUST000534,User524,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,524,50071
+ORD000535,CUST000535,User525,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,525,50072
+ORD000536,CUST000536,User526,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,526,50073
+ORD000537,CUST000537,User527,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,527,50074
+ORD000538,CUST000538,User528,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,528,50075
+ORD000539,CUST000539,User529,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,529,50076
+ORD000540,CUST000540,User530,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,530,50077
+ORD000541,CUST000541,User531,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,531,50078
+ORD000542,CUST000542,User532,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,532,50079
+ORD000543,CUST000543,User533,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,533,50080
+ORD000544,CUST000544,User534,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,534,50081
+ORD000545,CUST000545,User535,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,535,50082
+ORD000546,CUST000546,User536,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,536,50083
+ORD000547,CUST000547,User537,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,537,50084
+ORD000548,CUST000548,User538,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,538,50085
+ORD000549,CUST000549,User539,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,539,50086
+ORD000550,CUST000550,User540,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,540,50087
+ORD000551,CUST000551,User541,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,541,50088
+ORD000552,CUST000552,User542,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,542,50089
+ORD000553,CUST000553,User543,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,543,50090
+ORD000554,CUST000554,User544,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,544,50091
+ORD000555,CUST000555,User545,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,545,50092
+ORD000556,CUST000556,User546,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,546,50093
+ORD000557,CUST000557,User547,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,547,50094
+ORD000558,CUST000558,User548,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,548,50095
+ORD000559,CUST000559,User549,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,549,50096
+ORD000560,CUST000560,User550,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,550,50097
+ORD000561,CUST000561,User551,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,551,50098
+ORD000562,CUST000562,User552,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,552,50099
+ORD000563,CUST000563,User553,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,553,50100
+ORD000564,CUST000564,User554,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,554,50101
+ORD000565,CUST000565,User555,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,555,50102
+ORD000566,CUST000566,User556,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,556,50103
+ORD000567,CUST000567,User557,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,557,50104
+ORD000568,CUST000568,User558,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,558,50105
+ORD000569,CUST000569,User559,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,559,50106
+ORD000570,CUST000570,User560,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,560,50107
+ORD000571,CUST000571,User561,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,561,50108
+ORD000572,CUST000572,User562,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,562,50109
+ORD000573,CUST000573,User563,jandhyala.ramkrishna@gmail.com,9.20E+11,danger product,563,50110
+ORD000574,CUST000574,User564,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,564,50111
+ORD000575,CUST000575,User565,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,565,50112
+ORD000576,CUST000576,User566,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,566,50113
+ORD000577,CUST000577,User567,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,567,50114
+ORD000578,CUST000578,User568,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,568,50115
+ORD000579,CUST000579,User569,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,569,50116
+ORD000580,CUST000580,User570,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,570,50117
+ORD000581,CUST000581,User571,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,571,50118
+ORD000582,CUST000582,User572,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,572,50119
+ORD000583,CUST000583,User573,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,573,50120
+ORD000584,CUST000584,User574,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,574,50121
+ORD000585,CUST000585,User575,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,575,50122
+ORD000586,CUST000586,User576,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,576,50123
+ORD000587,CUST000587,User577,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,577,50124
+ORD000588,CUST000588,User578,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,578,50125
+ORD000589,CUST000589,User579,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,579,50126
+ORD000590,CUST000590,User580,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,580,50127
+ORD000591,CUST000591,User581,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,581,50128
+ORD000592,CUST000592,User582,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,582,50129
+ORD000593,CUST000593,User583,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,583,50130
+ORD000594,CUST000594,User584,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,584,50131
+ORD000595,CUST000595,User585,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,585,50132
+ORD000596,CUST000596,User586,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,586,50133
+ORD000597,CUST000597,User587,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,587,50134
+ORD000598,CUST000598,User588,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,588,50135
+ORD000599,CUST000599,User589,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,589,50136
+ORD000600,CUST000600,User590,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,590,50137
+ORD000601,CUST000601,User591,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,591,50138
+ORD000602,CUST000602,User592,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,592,50139
+ORD000603,CUST000603,User593,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,593,50140
+ORD000604,CUST000604,User594,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,594,50141
+ORD000605,CUST000605,User595,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,595,50142
+ORD000606,CUST000606,User596,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,596,50143
+ORD000607,CUST000607,User597,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,597,50144
+ORD000608,CUST000608,User598,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,598,50145
+ORD000609,CUST000609,User599,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,599,50146
+ORD000610,CUST000610,User600,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,600,50147
+ORD000611,CUST000611,User601,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,601,50148
+ORD000612,CUST000612,User602,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,602,50149
+ORD000613,CUST000613,User603,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,603,50150
+ORD000614,CUST000614,User604,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,604,50151
+ORD000615,CUST000615,User605,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,605,50152
+ORD000616,CUST000616,User606,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,606,50153
+ORD000617,CUST000617,User607,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,607,50154
+ORD000618,CUST000618,User608,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,608,50155
+ORD000619,CUST000619,User609,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,609,50156
+ORD000620,CUST000620,User610,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,610,50157
+ORD000621,CUST000621,User611,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,611,50158
+ORD000622,CUST000622,User612,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,612,50159
+ORD000623,CUST000623,User613,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,613,50160
+ORD000624,CUST000624,User614,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,614,50161
+ORD000625,CUST000625,User615,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,615,50162
+ORD000626,CUST000626,User616,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,616,50163
+ORD000627,CUST000627,User617,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,617,50164
+ORD000628,CUST000628,User618,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,618,50165
+ORD000629,CUST000629,User619,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,619,50166
+ORD000630,CUST000630,User620,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,620,50167
+ORD000631,CUST000631,User621,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,621,50168
+ORD000632,CUST000632,User622,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,622,50169
+ORD000633,CUST000633,User623,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,623,50170
+ORD000634,CUST000634,User624,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,624,50171
+ORD000635,CUST000635,User625,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,625,50172
+ORD000636,CUST000636,User626,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,626,50173
+ORD000637,CUST000637,User627,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,627,50174
+ORD000638,CUST000638,User628,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,628,50175
+ORD000639,CUST000639,User629,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,629,50176
+ORD000640,CUST000640,User630,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,630,50177
+ORD000641,CUST000641,User631,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,631,50178
+ORD000642,CUST000642,User632,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,632,50179
+ORD000643,CUST000643,User633,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,633,50180
+ORD000644,CUST000644,User634,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,634,50181
+ORD000645,CUST000645,User635,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,635,50182
+ORD000646,CUST000646,User636,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,636,50183
+ORD000647,CUST000647,User637,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,637,50184
+ORD000648,CUST000648,User638,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,638,50185
+ORD000649,CUST000649,User639,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,639,50186
+ORD000650,CUST000650,User640,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,640,50187
+ORD000651,CUST000651,User641,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,641,50188
+ORD000652,CUST000652,User642,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,642,50189
+ORD000653,CUST000653,User643,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,643,50190
+ORD000654,CUST000654,User644,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,644,50191
+ORD000655,CUST000655,User645,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,645,50192
+ORD000656,CUST000656,User646,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,646,50193
+ORD000657,CUST000657,User647,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,647,50194
+ORD000658,CUST000658,User648,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,648,50195
+ORD000659,CUST000659,User649,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,649,50196
+ORD000660,CUST000660,User650,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,650,50197
+ORD000661,CUST000661,User651,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,651,50198
+ORD000662,CUST000662,User652,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,652,50199
+ORD000663,CUST000663,User653,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,653,50200
+ORD000664,CUST000664,User654,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,654,50201
+ORD000665,CUST000665,User655,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,655,50202
+ORD000666,CUST000666,User656,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,656,50203
+ORD000667,CUST000667,User657,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,657,50204
+ORD000668,CUST000668,User658,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,658,50205
+ORD000669,CUST000669,User659,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,659,50206
+ORD000670,CUST000670,User660,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,660,50207
+ORD000671,CUST000671,User661,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,661,50208
+ORD000672,CUST000672,User662,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,662,50209
+ORD000673,CUST000673,User663,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,663,50210
+ORD000674,CUST000674,User664,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,664,50211
+ORD000675,CUST000675,User665,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,665,50212
+ORD000676,CUST000676,User666,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,666,50213
+ORD000677,CUST000677,User667,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,667,50214
+ORD000678,CUST000678,User668,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,668,50215
+ORD000679,CUST000679,User669,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,669,50216
+ORD000680,CUST000680,User670,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,670,50217
+ORD000681,CUST000681,User671,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,671,50218
+ORD000682,CUST000682,User672,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,672,50219
+ORD000683,CUST000683,User673,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,673,50220
+ORD000684,CUST000684,User674,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,674,50221
+ORD000685,CUST000685,User675,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,675,50222
+ORD000686,CUST000686,User676,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,676,50223
+ORD000687,CUST000687,User677,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,677,50224
+ORD000688,CUST000688,User678,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,678,50225
+ORD000689,CUST000689,User679,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,679,50226
+ORD000690,CUST000690,User680,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,680,50227
+ORD000691,CUST000691,User681,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,681,50228
+ORD000692,CUST000692,User682,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,682,50229
+ORD000693,CUST000693,User683,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,683,50230
+ORD000694,CUST000694,User684,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,684,50231
+ORD000695,CUST000695,User685,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,685,50232
+ORD000696,CUST000696,User686,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,686,50233
+ORD000697,CUST000697,User687,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,687,50234
+ORD000698,CUST000698,User688,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,688,50235
+ORD000699,CUST000699,User689,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,689,50236
+ORD000700,CUST000700,User690,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,690,50237
+ORD000701,CUST000701,User691,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,691,50238
+ORD000702,CUST000702,User692,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,692,50239
+ORD000703,CUST000703,User693,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,693,50240
+ORD000704,CUST000704,User694,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,694,50241
+ORD000705,CUST000705,User695,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,695,50242
+ORD000706,CUST000706,User696,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,696,50243
+ORD000707,CUST000707,User697,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,697,50244
+ORD000708,CUST000708,User698,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,698,50245
+ORD000709,CUST000709,User699,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,699,50246
+ORD000710,CUST000710,User700,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,700,50247
+ORD000711,CUST000711,User701,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,701,50248
+ORD000712,CUST000712,User702,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,702,50249
+ORD000713,CUST000713,User703,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,703,50250
+ORD000714,CUST000714,User704,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,704,50251
+ORD000715,CUST000715,User705,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,705,50252
+ORD000716,CUST000716,User706,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,706,50253
+ORD000717,CUST000717,User707,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,707,50254
+ORD000718,CUST000718,User708,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,708,50255
+ORD000719,CUST000719,User709,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,709,50256
+ORD000720,CUST000720,User710,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,710,50257
+ORD000721,CUST000721,User711,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,711,50258
+ORD000722,CUST000722,User712,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,712,50259
+ORD000723,CUST000723,User713,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,713,50260
+ORD000724,CUST000724,User714,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,714,50261
+ORD000725,CUST000725,User715,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,715,50262
+ORD000726,CUST000726,User716,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,716,50263
+ORD000727,CUST000727,User717,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,717,50264
+ORD000728,CUST000728,User718,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,718,50265
+ORD000729,CUST000729,User719,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,719,50266
+ORD000730,CUST000730,User720,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,720,50267
+ORD000731,CUST000731,User721,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,721,50268
+ORD000732,CUST000732,User722,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,722,50269
+ORD000733,CUST000733,User723,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,723,50270
+ORD000734,CUST000734,User724,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,724,50271
+ORD000735,CUST000735,User725,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,725,50272
+ORD000736,CUST000736,User726,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,726,50273
+ORD000737,CUST000737,User727,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,727,50274
+ORD000738,CUST000738,User728,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,728,50275
+ORD000739,CUST000739,User729,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,729,50276
+ORD000740,CUST000740,User730,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,730,50277
+ORD000741,CUST000741,User731,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,731,50278
+ORD000742,CUST000742,User732,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,732,50279
+ORD000743,CUST000743,User733,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,733,50280
+ORD000744,CUST000744,User734,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,734,50281
+ORD000745,CUST000745,User735,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,735,50282
+ORD000746,CUST000746,User736,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,736,50283
+ORD000747,CUST000747,User737,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,737,50284
+ORD000748,CUST000748,User738,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,738,50285
+ORD000749,CUST000749,User739,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,739,50286
+ORD000750,CUST000750,User740,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,740,50287
+ORD000751,CUST000751,User741,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,741,50288
+ORD000752,CUST000752,User742,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,742,50289
+ORD000753,CUST000753,User743,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,743,50290
+ORD000754,CUST000754,User744,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,744,50291
+ORD000755,CUST000755,User745,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,745,50292
+ORD000756,CUST000756,User746,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,746,50293
+ORD000757,CUST000757,User747,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,747,50294
+ORD000758,CUST000758,User748,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,748,50295
+ORD000759,CUST000759,User749,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,749,50296
+ORD000760,CUST000760,User750,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,750,50297
+ORD000761,CUST000761,User751,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,751,50298
+ORD000762,CUST000762,User752,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,752,50299
+ORD000763,CUST000763,User753,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,753,50300
+ORD000764,CUST000764,User754,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,754,50301
+ORD000765,CUST000765,User755,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,755,50302
+ORD000766,CUST000766,User756,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,756,50303
+ORD000767,CUST000767,User757,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,757,50304
+ORD000768,CUST000768,User758,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,758,50305
+ORD000769,CUST000769,User759,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,759,50306
+ORD000770,CUST000770,User760,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,760,50307
+ORD000771,CUST000771,User761,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,761,50308
+ORD000772,CUST000772,User762,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,762,50309
+ORD000773,CUST000773,User763,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,763,50310
+ORD000774,CUST000774,User764,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,764,50311
+ORD000775,CUST000775,User765,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,765,50312
+ORD000776,CUST000776,User766,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,766,50313
+ORD000777,CUST000777,User767,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,767,50314
+ORD000778,CUST000778,User768,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,768,50315
+ORD000779,CUST000779,User769,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,769,50316
+ORD000780,CUST000780,User770,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,770,50317
+ORD000781,CUST000781,User771,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,771,50318
+ORD000782,CUST000782,User772,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,772,50319
+ORD000783,CUST000783,User773,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,773,50320
+ORD000784,CUST000784,User774,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,774,50321
+ORD000785,CUST000785,User775,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,775,50322
+ORD000786,CUST000786,User776,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,776,50323
+ORD000787,CUST000787,User777,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,777,50324
+ORD000788,CUST000788,User778,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,778,50325
+ORD000789,CUST000789,User779,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,779,50326
+ORD000790,CUST000790,User780,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,780,50327
+ORD000791,CUST000791,User781,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,781,50328
+ORD000792,CUST000792,User782,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,782,50329
+ORD000793,CUST000793,User783,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,783,50330
+ORD000794,CUST000794,User784,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,784,50331
+ORD000795,CUST000795,User785,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,785,50332
+ORD000796,CUST000796,User786,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,786,50333
+ORD000797,CUST000797,User787,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,787,50334
+ORD000798,CUST000798,User788,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,788,50335
+ORD000799,CUST000799,User789,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,789,50336
+ORD000800,CUST000800,User790,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,790,50337
+ORD000801,CUST000801,User791,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,791,50338
+ORD000802,CUST000802,User792,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,792,50339
+ORD000803,CUST000803,User793,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,793,50340
+ORD000804,CUST000804,User794,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,794,50341
+ORD000805,CUST000805,User795,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,795,50342
+ORD000806,CUST000806,User796,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,796,50343
+ORD000807,CUST000807,User797,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,797,50344
+ORD000808,CUST000808,User798,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,798,50345
+ORD000809,CUST000809,User799,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,799,50346
+ORD000810,CUST000810,User800,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,800,50347
+ORD000811,CUST000811,User801,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,801,50348
+ORD000812,CUST000812,User802,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,802,50349
+ORD000813,CUST000813,User803,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,803,50350
+ORD000814,CUST000814,User804,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,804,50351
+ORD000815,CUST000815,User805,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,805,50352
+ORD000816,CUST000816,User806,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,806,50353
+ORD000817,CUST000817,User807,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,807,50354
+ORD000818,CUST000818,User808,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,808,50355
+ORD000819,CUST000819,User809,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,809,50356
+ORD000820,CUST000820,User810,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,810,50357
+ORD000821,CUST000821,User811,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,811,50358
+ORD000822,CUST000822,User812,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,812,50359
+ORD000823,CUST000823,User813,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,813,50360
+ORD000824,CUST000824,User814,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,814,50361
+ORD000825,CUST000825,User815,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,815,50362
+ORD000826,CUST000826,User816,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,816,50363
+ORD000827,CUST000827,User817,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,817,50364
+ORD000828,CUST000828,User818,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,818,50365
+ORD000829,CUST000829,User819,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,819,50366
+ORD000830,CUST000830,User820,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,820,50367
+ORD000831,CUST000831,User821,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,821,50368
+ORD000832,CUST000832,User822,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,822,50369
+ORD000833,CUST000833,User823,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,823,50370
+ORD000834,CUST000834,User824,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,824,50371
+ORD000835,CUST000835,User825,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,825,50372
+ORD000836,CUST000836,User826,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,826,50373
+ORD000837,CUST000837,User827,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,827,50374
+ORD000838,CUST000838,User828,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,828,50375
+ORD000839,CUST000839,User829,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,829,50376
+ORD000840,CUST000840,User830,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,830,50377
+ORD000841,CUST000841,User831,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,831,50378
+ORD000842,CUST000842,User832,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,832,50379
+ORD000843,CUST000843,User833,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,833,50380
+ORD000844,CUST000844,User834,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,834,50381
+ORD000845,CUST000845,User835,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,835,50382
+ORD000846,CUST000846,User836,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,836,50383
+ORD000847,CUST000847,User837,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,837,50384
+ORD000848,CUST000848,User838,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,838,50385
+ORD000849,CUST000849,User839,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,839,50386
+ORD000850,CUST000850,User840,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,840,50387
+ORD000851,CUST000851,User841,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,841,50388
+ORD000852,CUST000852,User842,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,842,50389
+ORD000853,CUST000853,User843,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,843,50390
+ORD000854,CUST000854,User844,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,844,50391
+ORD000855,CUST000855,User845,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,845,50392
+ORD000856,CUST000856,User846,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,846,50393
+ORD000857,CUST000857,User847,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,847,50394
+ORD000858,CUST000858,User848,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,848,50395
+ORD000859,CUST000859,User849,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,849,50396
+ORD000860,CUST000860,User850,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,850,50397
+ORD000861,CUST000861,User851,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,851,50398
+ORD000862,CUST000862,User852,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,852,50399
+ORD000863,CUST000863,User853,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,853,50400
+ORD000864,CUST000864,User854,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,854,50401
+ORD000865,CUST000865,User855,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,855,50402
+ORD000866,CUST000866,User856,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,856,50403
+ORD000867,CUST000867,User857,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,857,50404
+ORD000868,CUST000868,User858,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,858,50405
+ORD000869,CUST000869,User859,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,859,50406
+ORD000870,CUST000870,User860,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,860,50407
+ORD000871,CUST000871,User861,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,861,50408
+ORD000872,CUST000872,User862,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,862,50409
+ORD000873,CUST000873,User863,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,863,50410
+ORD000874,CUST000874,User864,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,864,50411
+ORD000875,CUST000875,User865,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,865,50412
+ORD000876,CUST000876,User866,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,866,50413
+ORD000877,CUST000877,User867,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,867,50414
+ORD000878,CUST000878,User868,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,868,50415
+ORD000879,CUST000879,User869,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,869,50416
+ORD000880,CUST000880,User870,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,870,50417
+ORD000881,CUST000881,User871,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,871,50418
+ORD000882,CUST000882,User872,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,872,50419
+ORD000883,CUST000883,User873,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,873,50420
+ORD000884,CUST000884,User874,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,874,50421
+ORD000885,CUST000885,User875,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,875,50422
+ORD000886,CUST000886,User876,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,876,50423
+ORD000887,CUST000887,User877,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,877,50424
+ORD000888,CUST000888,User878,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,878,50425
+ORD000889,CUST000889,User879,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,879,50426
+ORD000890,CUST000890,User880,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,880,50427
+ORD000891,CUST000891,User881,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,881,50428
+ORD000892,CUST000892,User882,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,882,50429
+ORD000893,CUST000893,User883,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,883,50430
+ORD000894,CUST000894,User884,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,884,50431
+ORD000895,CUST000895,User885,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,885,50432
+ORD000896,CUST000896,User886,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,886,50433
+ORD000897,CUST000897,User887,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,887,50434
+ORD000898,CUST000898,User888,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,888,50435
+ORD000899,CUST000899,User889,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,889,50436
+ORD000900,CUST000900,User890,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,890,50437
+ORD000901,CUST000901,User891,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,891,50438
+ORD000902,CUST000902,User892,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,892,50439
+ORD000903,CUST000903,User893,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,893,50440
+ORD000904,CUST000904,User894,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,894,50441
+ORD000905,CUST000905,User895,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,895,50442
+ORD000906,CUST000906,User896,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,896,50443
+ORD000907,CUST000907,User897,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,897,50444
+ORD000908,CUST000908,User898,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,898,50445
+ORD000909,CUST000909,User899,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,899,50446
+ORD000910,CUST000910,User900,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,900,50447
+ORD000911,CUST000911,User901,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,901,50448
+ORD000912,CUST000912,User902,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,902,50449
+ORD000913,CUST000913,User903,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,903,50450
+ORD000914,CUST000914,User904,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,904,50451
+ORD000915,CUST000915,User905,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,905,50452
+ORD000916,CUST000916,User906,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,906,50453
+ORD000917,CUST000917,User907,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,907,50454
+ORD000918,CUST000918,User908,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,908,50455
+ORD000919,CUST000919,User909,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,909,50456
+ORD000920,CUST000920,User910,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,910,50457
+ORD000921,CUST000921,User911,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,911,50458
+ORD000922,CUST000922,User912,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,912,50459
+ORD000923,CUST000923,User913,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,913,50460
+ORD000924,CUST000924,User914,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,914,50461
+ORD000925,CUST000925,User915,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,915,50462
+ORD000926,CUST000926,User916,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,916,50463
+ORD000927,CUST000927,User917,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,917,50464
+ORD000928,CUST000928,User918,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,918,50465
+ORD000929,CUST000929,User919,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,919,50466
+ORD000930,CUST000930,User920,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,920,50467
+ORD000931,CUST000931,User921,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,921,50468
+ORD000932,CUST000932,User922,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,922,50469
+ORD000933,CUST000933,User923,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,923,50470
+ORD000934,CUST000934,User924,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,924,50471
+ORD000935,CUST000935,User925,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,925,50472
+ORD000936,CUST000936,User926,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,926,50473
+ORD000937,CUST000937,User927,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,927,50474
+ORD000938,CUST000938,User928,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,928,50475
+ORD000939,CUST000939,User929,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,929,50476
+ORD000940,CUST000940,User930,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,930,50477
+ORD000941,CUST000941,User931,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,931,50478
+ORD000942,CUST000942,User932,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,932,50479
+ORD000943,CUST000943,User933,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,933,50480
+ORD000944,CUST000944,User934,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,934,50481
+ORD000945,CUST000945,User935,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,935,50482
+ORD000946,CUST000946,User936,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,936,50483
+ORD000947,CUST000947,User937,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,937,50484
+ORD000948,CUST000948,User938,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,938,50485
+ORD000949,CUST000949,User939,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,939,50486
+ORD000950,CUST000950,User940,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,940,50487
+ORD000951,CUST000951,User941,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,941,50488
+ORD000952,CUST000952,User942,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,942,50489
+ORD000953,CUST000953,User943,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,943,50490
+ORD000954,CUST000954,User944,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,944,50491
+ORD000955,CUST000955,User945,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,945,50492
+ORD000956,CUST000956,User946,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,946,50493
+ORD000957,CUST000957,User947,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,947,50494
+ORD000958,CUST000958,User948,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,948,50495
+ORD000959,CUST000959,User949,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,949,50496
+ORD000960,CUST000960,User950,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,950,50497
+ORD000961,CUST000961,User951,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,951,50498
+ORD000962,CUST000962,User952,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,952,50499
+ORD000963,CUST000963,User953,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,953,50500
+ORD000964,CUST000964,User954,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,954,50501
+ORD000965,CUST000965,User955,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,955,50502
+ORD000966,CUST000966,User956,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,956,50503
+ORD000967,CUST000967,User957,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,957,50504
+ORD000968,CUST000968,User958,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,958,50505
+ORD000969,CUST000969,User959,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,959,50506
+ORD000970,CUST000970,User960,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,960,50507
+ORD000971,CUST000971,User961,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,961,50508
+ORD000972,CUST000972,User962,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,962,50509
+ORD000973,CUST000973,User963,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,963,50510
+ORD000974,CUST000974,User964,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,964,50511
+ORD000975,CUST000975,User965,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,965,50512
+ORD000976,CUST000976,User966,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,966,50513
+ORD000977,CUST000977,User967,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,967,50514
+ORD000978,CUST000978,User968,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,968,50515
+ORD000979,CUST000979,User969,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,969,50516
+ORD000980,CUST000980,User970,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,970,50517
+ORD000981,CUST000981,User971,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,971,50518
+ORD000982,CUST000982,User972,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,972,50519
+ORD000983,CUST000983,User973,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,973,50520
+ORD000984,CUST000984,User974,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,974,50521
+ORD000985,CUST000985,User975,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,975,50522
+ORD000986,CUST000986,User976,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,976,50523
+ORD000987,CUST000987,User977,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,977,50524
+ORD000988,CUST000988,User978,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,978,50525
+ORD000989,CUST000989,User979,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,979,50526
+ORD000990,CUST000990,User980,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,980,50527
+ORD000991,CUST000991,User981,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,981,50528
+ORD000992,CUST000992,User982,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,982,50529
+ORD000993,CUST000993,User983,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,983,50530
+ORD000994,CUST000994,User984,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,984,50531
+ORD000995,CUST000995,User985,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,985,50532
+ORD000996,CUST000996,User986,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,986,50533
+ORD000997,CUST000997,User987,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,987,50534
+ORD000998,CUST000998,User988,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,988,50535
+ORD000999,CUST000999,User989,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,989,50536
+ORD001000,CUST001000,User990,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,990,50537
+ORD001001,CUST001001,User991,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,991,50538
+ORD001002,CUST001002,User992,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,992,50539
+ORD001003,CUST001003,User993,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,993,50540
+ORD001004,CUST001004,User994,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,994,50541
+ORD001005,CUST001005,User995,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,995,50542
+ORD001006,CUST001006,User996,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,996,50543
+ORD001007,CUST001007,User997,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,997,50544
+ORD001008,CUST001008,User998,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,998,50545
+ORD001009,CUST001009,User999,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,999,50546
+ORD001010,CUST001010,User1000,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,1000,50547
+ORD001011,CUST001011,User1001,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,1001,50548
+ORD001012,CUST001012,User1002,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,1002,50549
+ORD001013,CUST001013,User1003,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,1003,50550
+ORD001014,CUST001014,User1004,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,1004,50551
+ORD001015,CUST001015,User1005,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,1005,50552
+ORD001016,CUST001016,User1006,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,1006,50553
+ORD001017,CUST001017,User1007,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,1007,50554
+ORD001018,CUST001018,User1008,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,1008,50555
+ORD001019,CUST001019,User1009,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,1009,50556
+ORD001020,CUST001020,User1010,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,1010,50557
+ORD001021,CUST001021,User1011,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,1011,50558
+ORD001022,CUST001022,User1012,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,1012,50559
+ORD001023,CUST001023,User1013,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,1013,50560
+ORD001024,CUST001024,User1014,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,1014,50561
+ORD001025,CUST001025,User1015,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,1015,50562
+ORD001026,CUST001026,User1016,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,1016,50563
+ORD001027,CUST001027,User1017,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,1017,50564
+ORD001028,CUST001028,User1018,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,1018,50565
+ORD001029,CUST001029,User1019,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,1019,50566
+ORD001030,CUST001030,User1020,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,1020,50567
+ORD001031,CUST001031,User1021,jandhyala.ramkrishna@gmail.com,9.20E+11,iPhone,1021,50568
+ORD001032,CUST001032,User1022,jandhyala.ramkrishna@gmail.com,9.20E+11,samsung ,1022,50569
+ORD001033,CUST001033,User1023,jandhyala.ramkrishna@gmail.com,9.20E+11,nokia,895,50570
+ORD001034,CUST001034,User1024,jandhyala.ramkrishna@gmail.com,9.20E+11,oppo,896,50571
+,,,,, ,,
+,,,,, ,,
+,,,,, ,,
+,,,,, ,,

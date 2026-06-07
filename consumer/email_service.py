@@ -1,0 +1,31 @@
+from dotenv import load_dotenv
+import os
+import smtplib
+from email.mime.text import MIMEText
+
+# Load environment variables
+load_dotenv()
+
+EMAIL_USER = os.getenv("EMAIL_USER")
+EMAIL_PASS = os.getenv("EMAIL_PASS")
+SMTP_SERVER = os.getenv("SMTP_SERVER")
+SMTP_PORT = int(os.getenv("SMTP_PORT"))
+
+def send_email(subject, body, to_email):
+    try:
+        msg = MIMEText(body)
+        msg['Subject'] = subject
+        msg['From'] = EMAIL_USER
+        msg['To'] = to_email
+
+        # 🛑 COMMENTED OUT TO PREVENT EMAILS FLOODING YOUR INBOX DURING TESTING
+        # server = smtplib.SMTP(SMTP_SERVER, SMTP_PORT)
+        # server.starttls()
+        # server.login(EMAIL_USER, EMAIL_PASS)
+        # server.send_message(msg)
+        # server.quit()
+
+        print(f"⏩ SIMULATED EMAIL LOGGED: {subject} (Actual delivery skipped to protect inbox)")
+
+    except Exception as e:
+        print("❌ Email log failed:", str(e))
